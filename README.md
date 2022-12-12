@@ -21,7 +21,7 @@ We crawled movie’s box office information from https://pro.imdb.com/, named as
 Click [here] (https://drive.google.com/file/d/1AfsflHjQSuFPPZB7qfpO4-dcR45bIeNa/view?usp=sharing) to download.
 Files are named as **<tmdb_id>.jpg**
 
-### Poster High-level features (Total 144 GB)
+### Poster High-level features (Total 36 GB)
 We produced and released high-level (feature after ROI Align) features files, named as named as **<tmdb_id>.npy**. 
 under folder **text.txt**.
 A bbox area, the confidence score and the object name. 
