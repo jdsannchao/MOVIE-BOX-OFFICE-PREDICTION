@@ -46,4 +46,4 @@ torch.Size([29, 2048, 7, 7])
 ```
 
 According to the bbox prediction. In the same order
-Click [here](google drive share link) to download.
+Click [here](https://drive.google.com/file/d/1P-cU4iQdJbqS5zFwxVGSLHR-RLUdxexD/view?usp=sharing) to download.
