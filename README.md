@@ -2,7 +2,7 @@
 
 We introduce a new, large-scale, multimodal, text-image paired, movie meta-data dataset. 
 The dataset contains 35,794 movies with its meta data and movie poster crawled from www.tmdb.com. We also include movie's theatrical performance,  such as box office, and number of screens; source came from www.imdbpro.com. 
-Each movie has been assigned an unique tmdb id, e.g., the tmdb id for movie `[titanic](https://www.themoviedb.org/movie/597-titanic)` is 597. The tmdb_id is used during information retrieval. 
+Each movie has been assigned an unique tmdb id, e.g., the tmdb id for movie [Titanic](https://www.themoviedb.org/movie/597-titanic) is 597. The tmdb_id is used during information retrieval. 
  
 ### Meta data: basics, keywords, and credits (Total 202 MB)
 There are folders contains movies’ basic information, keywords and credits, respectively. Files are named as **<tmdb_id>.npy**
