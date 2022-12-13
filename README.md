@@ -5,7 +5,7 @@ The dataset contains 35,794 movies with its meta data and movie poster crawled f
 Each movie has been assigned an unique tmdb id, e.g., the tmdb id for movie [Titanic](https://www.themoviedb.org/movie/597-titanic) is 597. The tmdb_id is used during information retrieval. 
  
 ### Meta data: basics, keywords, and credits (Total 202 MB)
-There are folders contains movies’ basic information, keywords and credits, respectively. Files are named as **<tmdb_id>.npy**
+There are folders contains movies’ basic information, keywords and credits, respectively. Files are named as ***<tmdb_id>.npy***
 Click [here](https://drive.google.com/file/d/10g05aoMeClUxEjMFSt_5A5xjYPWI8JlK/view?usp=sharing) to download.
 
 Data Loading Example:
