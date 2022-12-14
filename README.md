@@ -19,12 +19,12 @@ Data Loading Example:
 We crawled movie’s box office information from https://pro.imdb.com/, named as **IMDB_crawl_36k_rawdata.csv**
 
 ### Poster (Image size: w400*h600, Total 1.5 GB)
-Click [here] (https://drive.google.com/file/d/1AfsflHjQSuFPPZB7qfpO4-dcR45bIeNa/view?usp=sharing) to download posters.
+Click [here](https://drive.google.com/file/d/1AfsflHjQSuFPPZB7qfpO4-dcR45bIeNa/view?usp=sharing) to download posters.
 Files are named as **<tmdb_id>.jpg**
 
 ### Poster High-level features (Total 36 GB)
 We produced and released high-level features files, zipped as **ROI_Align_features.zip**. Feature for each movie is named as **<tmdb_id>.npy**. 
-Click [here] (https://drive.google.com/file/d/1P-cU4iQdJbqS5zFwxVGSLHR-RLUdxexD/view?usp=sharing) to download.
+Click [here](https://drive.google.com/file/d/1P-cU4iQdJbqS5zFwxVGSLHR-RLUdxexD/view?usp=sharing) to download.
 
 Output example:
  ```
