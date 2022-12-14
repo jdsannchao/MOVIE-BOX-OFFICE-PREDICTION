@@ -24,7 +24,7 @@ Files are named as **<tmdb_id>.jpg**
 
 ### Poster High-level features (Total 36 GB)
 We produced and released high-level features files, zipped as **ROI_Align_features.zip**. Feature for each movie is named as **<tmdb_id>.npy**. 
-Click [here](https://drive.google.com/file/d/1P-cU4iQdJbqS5zFwxVGSLHR-RLUdxexD/view?usp=sharing) to download.
+Click [here] (https://drive.google.com/file/d/1P-cU4iQdJbqS5zFwxVGSLHR-RLUdxexD/view?usp=sharing) to download.
 
 Output example:
  ```
